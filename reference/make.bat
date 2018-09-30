@@ -1,4 +1,4 @@
-gcc test.c testControl_created.c
+gcc Test.c TestControl.c
 pause
 a.exe
 pause
